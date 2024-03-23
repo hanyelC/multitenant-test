@@ -1,0 +1,5 @@
+POST http://localhost:8080/create-tenant
+
+###
+
+GET http://localhost:8080/create-tenant
