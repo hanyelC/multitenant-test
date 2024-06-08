@@ -6,7 +6,7 @@ import {
   Param,
   Query,
 } from '@nestjs/common';
-import { UsersService } from 'src/modules/users/users.service';
+import { UsersService } from './users.service';
 
 @Controller('users')
 export class UsersController {
